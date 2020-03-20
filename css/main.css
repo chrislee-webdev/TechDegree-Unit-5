@@ -22,7 +22,10 @@ body{
 }
 
 img{
-    height:175px;
-    width:175px;
+    width:125px;
+    height:125px;
 }
 
+.box{
+    margin:25px;
+}
